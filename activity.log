@@ -1,0 +1,661 @@
+2020-05-26 09:15:32,892 :: INFO :: Lecture config.ini
+2020-05-26 09:15:32,893 :: DEBUG :: fichier complet
+2020-05-26 09:15:32,893 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 09:15:32,967 :: INFO :: Affichage page accueil
+2020-05-26 09:15:43,989 :: INFO :: Lecture config.ini
+2020-05-26 09:15:43,989 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:15:47,103 :: WARNING :: Affichage page config
+2020-05-26 09:16:26,479 :: INFO :: Lecture config.ini
+2020-05-26 09:16:26,479 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:16:29,575 :: WARNING :: Affichage page config
+2020-05-26 09:19:53,985 :: INFO :: Lecture config.ini
+2020-05-26 09:19:53,986 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:19:57,090 :: WARNING :: Affichage page config
+2020-05-26 09:24:39,806 :: INFO :: Lecture config.ini
+2020-05-26 09:24:39,807 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:24:42,936 :: WARNING :: Affichage page config
+2020-05-26 09:25:51,386 :: INFO :: Lecture config.ini
+2020-05-26 09:25:51,386 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:25:51,453 :: WARNING :: Affichage page config
+2020-05-26 09:26:02,049 :: INFO :: Lecture config.ini
+2020-05-26 09:26:02,049 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:26:05,154 :: WARNING :: Affichage page config
+2020-05-26 09:27:36,376 :: INFO :: Lecture config.ini
+2020-05-26 09:27:36,376 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:27:39,484 :: WARNING :: Affichage page config
+2020-05-26 09:27:54,375 :: INFO :: Lecture config.ini
+2020-05-26 09:27:54,376 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:27:57,463 :: WARNING :: Affichage page config
+2020-05-26 09:30:03,216 :: INFO :: Lecture config.ini
+2020-05-26 09:30:03,217 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:30:06,308 :: WARNING :: Affichage page config
+2020-05-26 09:31:46,349 :: INFO :: Lecture config.ini
+2020-05-26 09:31:46,350 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:31:46,422 :: WARNING :: Affichage page config
+2020-05-26 09:32:24,919 :: INFO :: Lecture config.ini
+2020-05-26 09:32:24,919 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:32:24,999 :: WARNING :: Affichage page config
+2020-05-26 09:32:38,795 :: INFO :: Lecture config.ini
+2020-05-26 09:32:38,795 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:32:38,868 :: WARNING :: Affichage page config
+2020-05-26 09:33:18,277 :: INFO :: Lecture config.ini
+2020-05-26 09:33:18,278 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:33:18,362 :: WARNING :: Affichage page config
+2020-05-26 09:33:36,270 :: INFO :: Lecture config.ini
+2020-05-26 09:33:36,270 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:33:36,340 :: WARNING :: Affichage page config
+2020-05-26 09:34:43,163 :: INFO :: Lecture config.ini
+2020-05-26 09:34:43,163 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:34:43,233 :: WARNING :: Affichage page config
+2020-05-26 09:42:33,930 :: INFO :: Lecture config.ini
+2020-05-26 09:42:33,931 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:42:33,999 :: WARNING :: Affichage page config
+2020-05-26 09:42:55,595 :: INFO :: Lecture config.ini
+2020-05-26 09:42:55,595 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:42:55,663 :: WARNING :: Affichage page config
+2020-05-26 09:43:06,629 :: INFO :: Lecture config.ini
+2020-05-26 09:43:06,629 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:43:06,708 :: WARNING :: Affichage page config
+2020-05-26 09:43:18,031 :: INFO :: Lecture config.ini
+2020-05-26 09:43:18,032 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:43:21,634 :: INFO :: Lecture config.ini
+2020-05-26 09:43:21,635 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:43:22,469 :: INFO :: Lecture config.ini
+2020-05-26 09:43:22,471 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:43:28,608 :: INFO :: Lecture config.ini
+2020-05-26 09:43:28,609 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:43:29,444 :: INFO :: Lecture config.ini
+2020-05-26 09:43:29,445 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:43:29,906 :: INFO :: Lecture config.ini
+2020-05-26 09:43:29,907 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:43:30,360 :: INFO :: Lecture config.ini
+2020-05-26 09:43:30,360 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:43:31,146 :: INFO :: Lecture config.ini
+2020-05-26 09:43:31,147 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:44:20,451 :: INFO :: Lecture config.ini
+2020-05-26 09:44:20,451 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:44:20,550 :: WARNING :: Affichage page config
+2020-05-26 09:44:25,740 :: INFO :: Lecture config.ini
+2020-05-26 09:44:25,741 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:44:28,135 :: INFO :: Lecture config.ini
+2020-05-26 09:44:28,136 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:44:28,657 :: INFO :: Lecture config.ini
+2020-05-26 09:44:28,658 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:44:39,429 :: INFO :: Lecture config.ini
+2020-05-26 09:44:39,429 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:44:39,504 :: WARNING :: Affichage page config
+2020-05-26 09:44:46,902 :: INFO :: Lecture config.ini
+2020-05-26 09:44:46,903 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:44:56,461 :: INFO :: Lecture config.ini
+2020-05-26 09:44:56,463 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:44:57,303 :: INFO :: Lecture config.ini
+2020-05-26 09:44:57,304 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:44:57,795 :: INFO :: Lecture config.ini
+2020-05-26 09:44:57,797 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:45:20,992 :: INFO :: Lecture config.ini
+2020-05-26 09:45:20,993 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:45:21,073 :: WARNING :: Affichage page config
+2020-05-26 09:45:25,956 :: INFO :: Lecture config.ini
+2020-05-26 09:45:25,957 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:45:26,016 :: WARNING :: Affichage page config
+2020-05-26 09:45:32,819 :: INFO :: Lecture config.ini
+2020-05-26 09:45:32,820 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 09:45:32,908 :: WARNING :: Affichage page config
+2020-05-26 09:45:45,585 :: INFO :: informations sauvegardees
+2020-05-26 09:45:45,660 :: INFO :: Affichage page accueil
+2020-05-26 10:16:42,846 :: INFO :: Affichage page avancee
+2020-05-26 10:16:46,790 :: INFO :: Affichage page avancee
+2020-05-26 10:17:35,887 :: INFO :: Affichage page avancee
+2020-05-26 10:18:16,005 :: INFO :: Affichage page avancee
+2020-05-26 10:18:37,505 :: INFO :: Affichage page avancee
+2020-05-26 10:18:45,087 :: INFO :: Affichage page avancee
+2020-05-26 10:19:08,070 :: INFO :: Affichage page avancee
+2020-05-26 10:19:10,761 :: INFO :: Affichage page avancee
+2020-05-26 10:19:31,851 :: INFO :: Affichage page avancee
+2020-05-26 10:19:38,128 :: INFO :: Affichage page avancee
+2020-05-26 10:20:04,873 :: INFO :: Affichage page avancee
+2020-05-26 10:20:06,891 :: INFO :: Affichage page avancee
+2020-05-26 10:20:13,772 :: INFO :: Affichage page avancee
+2020-05-26 10:20:17,076 :: INFO :: Affichage page avancee
+2020-05-26 10:21:16,157 :: INFO :: Affichage page avancee
+2020-05-26 10:21:20,764 :: INFO :: Affichage page avancee
+2020-05-26 10:21:26,311 :: INFO :: Affichage page avancee
+2020-05-26 10:21:34,323 :: INFO :: Affichage page avancee
+2020-05-26 10:21:46,815 :: INFO :: Affichage page avancee
+2020-05-26 10:21:51,102 :: INFO :: Affichage page avancee
+2020-05-26 10:25:50,754 :: INFO :: Affichage page avancee
+2020-05-26 10:32:03,470 :: INFO :: Affichage page avancee
+2020-05-26 10:32:36,979 :: INFO :: Affichage page avancee
+2020-05-26 10:32:46,550 :: INFO :: Affichage page avancee
+2020-05-26 10:33:31,652 :: INFO :: Affichage page avancee
+2020-05-26 10:33:37,723 :: INFO :: Affichage page avancee
+2020-05-26 10:34:14,762 :: INFO :: Affichage page avancee
+2020-05-26 10:34:21,569 :: INFO :: Affichage page avancee
+2020-05-26 10:34:34,660 :: INFO :: Affichage page avancee
+2020-05-26 10:34:37,836 :: INFO :: Affichage page avancee
+2020-05-26 10:34:42,967 :: INFO :: Affichage page avancee
+2020-05-26 10:34:51,013 :: INFO :: Affichage page avancee
+2020-05-26 10:34:52,490 :: INFO :: Affichage page avancee
+2020-05-26 10:34:57,888 :: INFO :: Affichage page avancee
+2020-05-26 10:35:08,805 :: INFO :: Affichage page avancee
+2020-05-26 10:35:13,769 :: INFO :: Affichage page avancee
+2020-05-26 10:35:20,311 :: INFO :: Affichage page avancee
+2020-05-26 10:51:58,785 :: INFO :: Affichage page avancee
+2020-05-26 10:52:01,762 :: INFO :: Affichage page avancee
+2020-05-26 10:52:07,117 :: INFO :: Affichage page avancee
+2020-05-26 10:52:08,792 :: INFO :: Affichage page avancee
+2020-05-26 10:52:31,011 :: INFO :: Affichage page avancee
+2020-05-26 10:52:35,179 :: INFO :: Affichage page avancee
+2020-05-26 10:52:51,089 :: INFO :: Affichage page avancee
+2020-05-26 10:53:09,249 :: INFO :: Affichage page avancee
+2020-05-26 10:53:11,662 :: INFO :: Affichage page avancee
+2020-05-26 10:53:17,169 :: INFO :: Affichage page avancee
+2020-05-26 10:53:20,455 :: INFO :: Affichage page avancee
+2020-05-26 10:53:28,879 :: INFO :: Affichage page avancee
+2020-05-26 10:53:31,159 :: INFO :: Affichage page avancee
+2020-05-26 10:55:29,812 :: INFO :: Affichage page avancee
+2020-05-26 10:55:42,631 :: INFO :: Affichage page avancee
+2020-05-26 10:55:42,978 :: INFO :: Affichage page avancee
+2020-05-26 10:56:13,747 :: INFO :: Affichage page avancee
+2020-05-26 10:59:07,194 :: INFO :: Affichage page avancee
+2020-05-26 11:00:25,992 :: INFO :: Affichage page avancee
+2020-05-26 11:00:52,887 :: INFO :: Affichage page avancee
+2020-05-26 11:01:53,134 :: INFO :: Affichage page avancee
+2020-05-26 11:09:22,437 :: INFO :: Lecture config.ini
+2020-05-26 11:09:22,438 :: DEBUG :: fichier complet
+2020-05-26 11:09:22,438 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 11:09:22,511 :: INFO :: Affichage page accueil
+2020-05-26 11:12:46,421 :: INFO :: Lecture config.ini
+2020-05-26 11:12:46,422 :: DEBUG :: fichier complet
+2020-05-26 11:12:46,422 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 11:12:46,502 :: INFO :: Affichage page accueil
+2020-05-26 11:12:56,068 :: INFO :: Lecture config.ini
+2020-05-26 11:12:56,069 :: DEBUG :: fichier complet
+2020-05-26 11:12:56,069 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 11:12:56,155 :: INFO :: Affichage page accueil
+2020-05-26 11:13:43,668 :: INFO :: Lecture config.ini
+2020-05-26 11:13:43,669 :: DEBUG :: fichier complet
+2020-05-26 11:13:43,669 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 11:13:43,748 :: INFO :: Affichage page accueil
+2020-05-26 11:17:35,426 :: INFO :: Lecture config.ini
+2020-05-26 11:17:35,427 :: DEBUG :: fichier complet
+2020-05-26 11:17:35,427 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 11:17:35,525 :: INFO :: Affichage page accueil
+2020-05-26 11:18:21,721 :: INFO :: Lecture config.ini
+2020-05-26 11:18:21,721 :: DEBUG :: fichier complet
+2020-05-26 11:18:21,722 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 11:18:21,789 :: INFO :: Affichage page accueil
+2020-05-26 11:18:21,848 :: INFO :: Affichage page avancee
+2020-05-26 11:19:28,048 :: INFO :: Lecture config.ini
+2020-05-26 11:19:28,048 :: DEBUG :: fichier complet
+2020-05-26 11:19:28,049 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 11:19:28,127 :: INFO :: Affichage page accueil
+2020-05-26 12:47:24,500 :: INFO :: Lecture config.ini
+2020-05-26 12:47:24,501 :: DEBUG :: fichier complet
+2020-05-26 12:47:24,502 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 12:47:24,569 :: INFO :: Affichage page accueil
+2020-05-26 13:42:24,105 :: INFO :: Lecture config.ini
+2020-05-26 13:42:24,106 :: DEBUG :: fichier complet
+2020-05-26 13:42:24,106 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:42:24,181 :: INFO :: Affichage page accueil
+2020-05-26 13:43:11,635 :: INFO :: Lecture config.ini
+2020-05-26 13:43:11,636 :: DEBUG :: fichier complet
+2020-05-26 13:43:11,636 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:43:11,722 :: INFO :: Affichage page accueil
+2020-05-26 13:43:58,694 :: INFO :: Lecture config.ini
+2020-05-26 13:43:58,695 :: DEBUG :: fichier complet
+2020-05-26 13:43:58,695 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:43:58,772 :: INFO :: Affichage page accueil
+2020-05-26 13:43:58,826 :: INFO :: Affichage page avancee
+2020-05-26 13:45:20,578 :: INFO :: Lecture config.ini
+2020-05-26 13:45:20,578 :: DEBUG :: fichier complet
+2020-05-26 13:45:20,579 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:45:20,642 :: INFO :: Affichage page accueil
+2020-05-26 13:45:49,401 :: INFO :: Lecture config.ini
+2020-05-26 13:45:49,401 :: DEBUG :: fichier complet
+2020-05-26 13:45:49,402 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:45:49,472 :: INFO :: Affichage page accueil
+2020-05-26 13:45:49,475 :: INFO :: Affichage page avancee
+2020-05-26 13:47:26,312 :: INFO :: Lecture config.ini
+2020-05-26 13:47:26,313 :: DEBUG :: fichier complet
+2020-05-26 13:47:26,313 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:47:26,385 :: INFO :: Affichage page accueil
+2020-05-26 13:47:26,445 :: INFO :: Affichage page avancee
+2020-05-26 13:47:43,041 :: INFO :: Lecture config.ini
+2020-05-26 13:47:43,042 :: DEBUG :: fichier complet
+2020-05-26 13:47:43,042 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:47:43,106 :: INFO :: Affichage page accueil
+2020-05-26 13:47:44,350 :: INFO :: Affichage page avancee
+2020-05-26 13:48:36,162 :: INFO :: Lecture config.ini
+2020-05-26 13:48:36,163 :: DEBUG :: fichier complet
+2020-05-26 13:48:36,163 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:48:36,230 :: INFO :: Affichage page accueil
+2020-05-26 13:48:39,659 :: INFO :: Affichage page avancee
+2020-05-26 13:48:56,316 :: INFO :: Affichage page avancee
+2020-05-26 13:48:58,719 :: INFO :: Affichage page avancee
+2020-05-26 13:49:21,161 :: INFO :: Lecture config.ini
+2020-05-26 13:49:21,162 :: DEBUG :: fichier complet
+2020-05-26 13:49:21,162 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:49:21,227 :: INFO :: Affichage page accueil
+2020-05-26 13:49:22,194 :: INFO :: Affichage page avancee
+2020-05-26 13:49:23,049 :: INFO :: Affichage page avancee
+2020-05-26 13:49:24,189 :: INFO :: Affichage page avancee
+2020-05-26 13:49:24,505 :: INFO :: Affichage page avancee
+2020-05-26 13:49:25,881 :: INFO :: Affichage page avancee
+2020-05-26 13:49:27,598 :: INFO :: Affichage page avancee
+2020-05-26 13:50:19,073 :: INFO :: Lecture config.ini
+2020-05-26 13:50:19,074 :: DEBUG :: fichier complet
+2020-05-26 13:50:19,074 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:50:19,143 :: INFO :: Affichage page accueil
+2020-05-26 13:50:20,746 :: INFO :: Affichage page avancee
+2020-05-26 13:50:21,678 :: INFO :: Affichage page avancee
+2020-05-26 13:50:24,162 :: INFO :: Affichage page avancee
+2020-05-26 13:50:25,724 :: INFO :: Affichage page avancee
+2020-05-26 13:51:48,954 :: INFO :: Lecture config.ini
+2020-05-26 13:51:48,956 :: DEBUG :: fichier complet
+2020-05-26 13:51:48,957 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 13:51:49,047 :: INFO :: Affichage page accueil
+2020-05-26 13:51:50,698 :: INFO :: Affichage page avancee
+2020-05-26 13:51:56,695 :: INFO :: Affichage page avancee
+2020-05-26 13:51:59,302 :: INFO :: Affichage page avancee
+2020-05-26 13:52:00,926 :: INFO :: Affichage page avancee
+2020-05-26 13:52:02,307 :: INFO :: Affichage page avancee
+2020-05-26 14:17:44,311 :: INFO :: Affichage page avancee
+2020-05-26 14:17:47,041 :: INFO :: Affichage page avancee
+2020-05-26 14:17:57,692 :: INFO :: Affichage page avancee
+2020-05-26 14:18:02,670 :: INFO :: Affichage page avancee
+2020-05-26 14:18:15,882 :: INFO :: Affichage page avancee
+2020-05-26 14:18:31,444 :: INFO :: Affichage page avancee
+2020-05-26 14:18:46,366 :: INFO :: Affichage page avancee
+2020-05-26 14:18:51,437 :: INFO :: Affichage page avancee
+2020-05-26 14:20:57,477 :: INFO :: Affichage page avancee
+2020-05-26 14:21:00,219 :: INFO :: Affichage page avancee
+2020-05-26 14:21:08,803 :: INFO :: Affichage page avancee
+2020-05-26 14:21:13,009 :: INFO :: Affichage page avancee
+2020-05-26 14:21:14,670 :: INFO :: Affichage page avancee
+2020-05-26 14:21:15,949 :: INFO :: Affichage page avancee
+2020-05-26 14:21:16,586 :: INFO :: Affichage page avancee
+2020-05-26 14:21:17,742 :: INFO :: Affichage page avancee
+2020-05-26 14:21:18,844 :: INFO :: Affichage page avancee
+2020-05-26 14:21:19,105 :: INFO :: Affichage page avancee
+2020-05-26 14:21:20,413 :: INFO :: Affichage page avancee
+2020-05-26 14:46:42,949 :: INFO :: Affichage page avancee
+2020-05-26 14:46:44,480 :: INFO :: Affichage page avancee
+2020-05-26 14:46:53,654 :: INFO :: Lecture config.ini
+2020-05-26 14:46:53,654 :: DEBUG :: fichier complet
+2020-05-26 14:46:53,655 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 14:46:53,722 :: INFO :: Affichage page accueil
+2020-05-26 14:47:14,145 :: INFO :: Lecture config.ini
+2020-05-26 14:47:14,145 :: DEBUG :: fichier complet
+2020-05-26 14:47:14,146 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 14:47:14,214 :: INFO :: Affichage page accueil
+2020-05-26 14:47:15,489 :: INFO :: Affichage page avancee
+2020-05-26 14:47:20,218 :: INFO :: Affichage page avancee
+2020-05-26 14:48:45,196 :: INFO :: Lecture config.ini
+2020-05-26 14:48:45,197 :: DEBUG :: fichier complet
+2020-05-26 14:48:45,197 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 14:48:45,264 :: INFO :: Affichage page accueil
+2020-05-26 14:49:04,176 :: INFO :: Lecture config.ini
+2020-05-26 14:49:04,177 :: DEBUG :: fichier complet
+2020-05-26 14:49:04,177 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 14:49:04,246 :: INFO :: Affichage page accueil
+2020-05-26 14:49:13,481 :: INFO :: Affichage page accueil
+2020-05-26 14:49:14,482 :: INFO :: Affichage page accueil
+2020-05-26 14:49:14,678 :: INFO :: Affichage page accueil
+2020-05-26 14:49:14,866 :: INFO :: Affichage page accueil
+2020-05-26 14:49:15,982 :: INFO :: Affichage page accueil
+2020-05-26 14:55:52,942 :: INFO :: Affichage page accueil
+2020-05-26 14:56:00,403 :: INFO :: Affichage page accueil
+2020-05-26 14:56:51,793 :: INFO :: Affichage page accueil
+2020-05-26 14:56:52,878 :: INFO :: Affichage page avancee
+2020-05-26 14:56:53,990 :: INFO :: Affichage page accueil
+2020-05-26 14:56:54,569 :: INFO :: Affichage page avancee
+2020-05-26 14:56:55,506 :: INFO :: Affichage page accueil
+2020-05-26 14:57:01,767 :: INFO :: Affichage page accueil
+2020-05-26 14:59:07,504 :: INFO :: Affichage page accueil
+2020-05-26 14:59:10,128 :: INFO :: Affichage page avancee
+2020-05-26 14:59:10,807 :: INFO :: Affichage page accueil
+2020-05-26 14:59:12,445 :: INFO :: Lecture config.ini
+2020-05-26 14:59:12,446 :: DEBUG :: fichier complet
+2020-05-26 14:59:12,446 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 14:59:37,335 :: INFO :: Lecture config.ini
+2020-05-26 14:59:37,336 :: DEBUG :: fichier complet
+2020-05-26 14:59:37,337 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 15:00:33,497 :: INFO :: Lecture config.ini
+2020-05-26 15:00:33,498 :: DEBUG :: fichier complet
+2020-05-26 15:00:33,499 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 15:00:33,566 :: INFO :: Affichage page accueil
+2020-05-26 15:00:35,517 :: INFO :: Affichage page avancee
+2020-05-26 15:00:36,929 :: INFO :: Affichage page accueil
+2020-05-26 15:00:48,426 :: INFO :: Lecture config.ini
+2020-05-26 15:00:48,426 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 15:00:48,507 :: WARNING :: Affichage page config
+2020-05-26 15:01:12,458 :: INFO :: informations sauvegardees
+2020-05-26 15:02:38,228 :: INFO :: Lecture config.ini
+2020-05-26 15:02:38,228 :: DEBUG :: fichier complet
+2020-05-26 15:02:38,229 :: INFO :: ['192.168.1.1', '123456', 'abcdefghijklmnopqrstuvwxyz']
+2020-05-26 15:02:38,298 :: INFO :: Affichage page accueil
+2020-05-26 15:02:40,023 :: INFO :: Affichage page avancee
+2020-05-26 15:02:40,958 :: INFO :: Affichage page accueil
+2020-05-26 15:02:41,486 :: INFO :: Affichage page avancee
+2020-05-26 15:02:42,052 :: INFO :: Affichage page accueil
+2020-05-26 15:02:42,555 :: INFO :: Affichage page avancee
+2020-05-26 15:02:43,290 :: INFO :: Affichage page accueil
+2020-05-26 15:03:13,162 :: INFO :: Lecture config.ini
+2020-05-26 15:03:13,163 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 15:03:13,240 :: WARNING :: Affichage page config
+2020-05-26 15:03:26,013 :: INFO :: informations sauvegardees
+2020-05-26 15:03:26,014 :: INFO :: Lecture config.ini
+2020-05-26 15:03:26,019 :: DEBUG :: fichier complet
+2020-05-26 15:03:26,046 :: INFO :: ['192.168.1.1', '123456', 'abcd']
+2020-05-26 15:05:04,390 :: INFO :: Lecture config.ini
+2020-05-26 15:05:04,391 :: DEBUG :: fichier complet
+2020-05-26 15:05:04,391 :: INFO :: ['192.168.1.1', '123456', 'abcd']
+2020-05-26 15:05:04,466 :: INFO :: Affichage page accueil
+2020-05-26 15:05:17,214 :: INFO :: Lecture config.ini
+2020-05-26 15:05:17,214 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 15:05:17,283 :: WARNING :: Affichage page config
+2020-05-26 15:05:28,077 :: INFO :: Affichage page accueil
+2020-05-26 15:05:28,080 :: INFO :: informations sauvegardees
+2020-05-26 15:05:28,082 :: INFO :: Lecture config.ini
+2020-05-26 15:05:28,087 :: DEBUG :: fichier complet
+2020-05-26 15:05:28,087 :: INFO :: ['192.168.1.1', '123456', 'abdcef']
+2020-05-26 15:05:28,090 :: INFO :: Affichage page accueil
+2020-05-26 15:05:30,447 :: INFO :: Affichage page avancee
+2020-05-26 15:05:31,251 :: INFO :: Affichage page accueil
+2020-05-26 15:05:31,873 :: INFO :: Affichage page avancee
+2020-05-26 15:05:32,375 :: INFO :: Affichage page accueil
+2020-05-26 15:06:33,591 :: INFO :: Lecture config.ini
+2020-05-26 15:06:33,591 :: DEBUG :: fichier complet
+2020-05-26 15:06:33,592 :: INFO :: ['192.168.1.1', '123456', 'abdcef']
+2020-05-26 15:06:33,658 :: INFO :: Affichage page accueil
+2020-05-26 15:06:46,025 :: INFO :: Lecture config.ini
+2020-05-26 15:06:46,025 :: DEBUG :: fichier complet
+2020-05-26 15:06:46,026 :: INFO :: ['192.168.1.1', '123456', 'abdcef']
+2020-05-26 15:06:46,107 :: INFO :: Affichage page accueil
+2020-05-26 15:06:50,842 :: INFO :: Affichage page avancee
+2020-05-26 15:06:51,474 :: INFO :: Affichage page accueil
+2020-05-26 15:08:56,089 :: INFO :: Lecture config.ini
+2020-05-26 15:08:56,090 :: DEBUG :: fichier complet
+2020-05-26 15:08:56,090 :: INFO :: ['192.168.1.1', '123456', 'abdcef']
+2020-05-26 15:08:56,160 :: INFO :: Affichage page accueil
+2020-05-26 15:08:58,693 :: INFO :: Affichage page avancee
+2020-05-26 15:08:59,243 :: INFO :: Affichage page accueil
+2020-05-26 15:08:59,735 :: INFO :: Affichage page avancee
+2020-05-26 15:09:00,863 :: INFO :: Affichage page accueil
+2020-05-26 15:09:02,367 :: INFO :: Affichage page avancee
+2020-05-26 15:09:02,853 :: INFO :: Affichage page accueil
+2020-05-26 15:09:03,563 :: INFO :: Affichage page avancee
+2020-05-26 15:09:03,922 :: INFO :: Affichage page accueil
+2020-05-26 15:09:04,254 :: INFO :: Affichage page avancee
+2020-05-26 15:09:04,570 :: INFO :: Affichage page accueil
+2020-05-26 15:09:04,769 :: INFO :: Affichage page avancee
+2020-05-26 15:09:04,940 :: INFO :: Affichage page accueil
+2020-05-26 15:09:05,116 :: INFO :: Affichage page avancee
+2020-05-26 15:09:05,277 :: INFO :: Affichage page accueil
+2020-05-26 15:09:05,452 :: INFO :: Affichage page avancee
+2020-05-26 15:09:05,852 :: INFO :: Affichage page accueil
+2020-05-26 15:09:06,244 :: INFO :: Affichage page avancee
+2020-05-26 15:10:37,860 :: INFO :: Lecture config.ini
+2020-05-26 15:10:37,860 :: DEBUG :: fichier complet
+2020-05-26 15:10:37,861 :: INFO :: ['192.168.1.1', '123456', 'abdcef']
+2020-05-26 15:10:37,950 :: INFO :: Affichage page accueil
+2020-05-26 15:10:40,248 :: INFO :: Lecture config.ini
+2020-05-26 15:10:40,250 :: DEBUG :: fichier complet
+2020-05-26 15:10:40,252 :: INFO :: ['192.168.1.1', '123456', 'abdcef']
+2020-05-26 15:10:40,316 :: INFO :: Affichage page accueil
+2020-05-26 15:11:05,544 :: INFO :: Lecture config.ini
+2020-05-26 15:11:05,545 :: DEBUG :: fichier complet
+2020-05-26 15:11:05,545 :: INFO :: ['192.168.1.1', '123456', 'abdcef']
+2020-05-26 15:11:05,608 :: INFO :: Affichage page accueil
+2020-05-26 15:11:07,054 :: INFO :: Affichage page avancee
+2020-05-26 15:11:08,991 :: INFO :: Affichage page accueil
+2020-05-26 15:11:09,729 :: INFO :: Affichage page avancee
+2020-05-26 15:11:10,057 :: INFO :: Affichage page accueil
+2020-05-26 15:11:10,436 :: INFO :: Affichage page avancee
+2020-05-26 15:11:10,697 :: INFO :: Affichage page accueil
+2020-05-26 15:11:11,033 :: INFO :: Affichage page avancee
+2020-05-26 15:11:11,244 :: INFO :: Affichage page accueil
+2020-05-26 15:11:11,612 :: INFO :: Affichage page avancee
+2020-05-26 15:11:11,798 :: INFO :: Affichage page accueil
+2020-05-26 15:11:12,197 :: INFO :: Affichage page avancee
+2020-05-26 15:11:12,383 :: INFO :: Affichage page accueil
+2020-05-26 15:11:12,920 :: INFO :: Affichage page avancee
+2020-05-26 15:11:13,259 :: INFO :: Affichage page accueil
+2020-05-26 15:12:06,890 :: INFO :: Affichage page accueil
+2020-05-26 15:12:42,211 :: INFO :: Affichage page accueil
+2020-05-26 15:12:45,131 :: INFO :: Affichage page accueil
+2020-05-26 15:13:44,182 :: INFO :: Affichage page accueil
+2020-05-26 15:13:45,759 :: INFO :: Affichage page accueil
+2020-05-26 15:14:15,384 :: INFO :: Affichage page accueil
+2020-05-26 15:14:18,449 :: INFO :: Affichage page accueil
+2020-05-26 15:14:24,001 :: INFO :: Affichage page accueil
+2020-05-26 15:14:25,172 :: INFO :: Affichage page accueil
+2020-05-26 15:14:29,309 :: INFO :: Affichage page accueil
+2020-05-26 15:14:30,776 :: INFO :: Affichage page accueil
+2020-05-26 15:14:43,117 :: INFO :: Affichage page accueil
+2020-05-26 15:14:45,177 :: INFO :: Affichage page accueil
+2020-05-26 15:14:51,701 :: INFO :: Affichage page accueil
+2020-05-26 15:14:52,756 :: INFO :: Affichage page accueil
+2020-05-26 15:15:03,253 :: INFO :: Affichage page accueil
+2020-05-26 15:15:06,391 :: INFO :: Affichage page accueil
+2020-05-26 15:15:13,056 :: INFO :: Affichage page accueil
+2020-05-26 15:15:15,596 :: INFO :: Affichage page accueil
+2020-05-26 15:15:23,927 :: INFO :: Affichage page accueil
+2020-05-26 15:15:26,187 :: INFO :: Affichage page accueil
+2020-05-26 15:15:32,688 :: INFO :: Affichage page accueil
+2020-05-26 15:15:34,762 :: INFO :: Affichage page accueil
+2020-05-26 15:15:38,784 :: INFO :: Affichage page accueil
+2020-05-26 15:15:40,073 :: INFO :: Affichage page accueil
+2020-05-26 15:15:48,707 :: INFO :: Affichage page accueil
+2020-05-26 15:15:58,679 :: INFO :: Affichage page accueil
+2020-05-26 15:16:04,299 :: INFO :: Affichage page accueil
+2020-05-26 15:16:05,602 :: INFO :: Affichage page accueil
+2020-05-26 15:16:11,188 :: INFO :: Affichage page accueil
+2020-05-26 15:16:12,431 :: INFO :: Affichage page accueil
+2020-05-26 15:16:17,062 :: INFO :: Affichage page accueil
+2020-05-26 15:16:19,014 :: INFO :: Affichage page accueil
+2020-05-26 15:16:24,036 :: INFO :: Affichage page accueil
+2020-05-26 15:16:29,398 :: INFO :: Affichage page accueil
+2020-05-26 15:16:35,718 :: INFO :: Affichage page accueil
+2020-05-26 15:16:37,377 :: INFO :: Affichage page accueil
+2020-05-26 15:16:42,727 :: INFO :: Affichage page accueil
+2020-05-26 15:16:52,055 :: INFO :: Affichage page accueil
+2020-05-26 15:16:56,851 :: INFO :: Affichage page accueil
+2020-05-26 15:16:58,433 :: INFO :: Affichage page accueil
+2020-05-26 15:17:08,275 :: INFO :: Affichage page accueil
+2020-05-26 15:17:09,571 :: INFO :: Affichage page accueil
+2020-05-26 15:17:31,307 :: INFO :: Affichage page accueil
+2020-05-26 15:17:32,932 :: INFO :: Affichage page accueil
+2020-05-26 15:17:39,895 :: INFO :: Affichage page accueil
+2020-05-26 15:17:41,659 :: INFO :: Affichage page accueil
+2020-05-26 15:17:47,249 :: INFO :: Affichage page accueil
+2020-05-26 15:17:48,317 :: INFO :: Affichage page accueil
+2020-05-26 15:18:52,805 :: INFO :: Affichage page accueil
+2020-05-26 15:18:54,308 :: INFO :: Affichage page accueil
+2020-05-26 15:19:15,270 :: INFO :: Affichage page accueil
+2020-05-26 15:19:18,098 :: INFO :: Affichage page accueil
+2020-05-26 15:19:22,759 :: INFO :: Affichage page accueil
+2020-05-26 15:19:23,989 :: INFO :: Affichage page accueil
+2020-05-26 15:19:37,637 :: INFO :: Affichage page accueil
+2020-05-26 15:19:43,092 :: INFO :: Affichage page accueil
+2020-05-26 15:19:51,890 :: INFO :: Affichage page accueil
+2020-05-26 15:19:52,536 :: INFO :: Affichage page avancee
+2020-05-26 15:19:53,236 :: INFO :: Affichage page accueil
+2020-05-26 15:19:53,588 :: INFO :: Affichage page avancee
+2020-05-26 15:19:53,865 :: INFO :: Affichage page accueil
+2020-05-26 15:19:54,111 :: INFO :: Affichage page avancee
+2020-05-26 15:19:54,294 :: INFO :: Affichage page accueil
+2020-05-26 15:19:54,710 :: INFO :: Affichage page avancee
+2020-05-26 15:19:55,233 :: INFO :: Affichage page accueil
+2020-05-26 15:19:55,476 :: INFO :: Affichage page avancee
+2020-05-26 15:19:56,008 :: INFO :: Affichage page accueil
+2020-05-26 15:19:56,283 :: INFO :: Affichage page avancee
+2020-05-26 15:19:57,282 :: INFO :: Affichage page accueil
+2020-05-26 15:19:57,518 :: INFO :: Affichage page avancee
+2020-05-26 15:19:57,909 :: INFO :: Affichage page accueil
+2020-05-26 15:20:00,927 :: INFO :: Affichage page accueil
+2020-05-26 15:21:51,576 :: INFO :: Affichage page accueil
+2020-05-26 15:21:53,487 :: INFO :: Affichage page accueil
+2020-05-26 15:22:03,480 :: INFO :: Affichage page accueil
+2020-05-26 15:22:06,025 :: INFO :: Affichage page accueil
+2020-05-26 15:22:11,874 :: INFO :: Affichage page accueil
+2020-05-26 15:22:13,393 :: INFO :: Affichage page accueil
+2020-05-26 15:22:18,492 :: INFO :: Affichage page accueil
+2020-05-26 15:22:19,993 :: INFO :: Affichage page accueil
+2020-05-26 15:22:28,096 :: INFO :: Affichage page accueil
+2020-05-26 15:22:31,519 :: INFO :: Affichage page accueil
+2020-05-26 15:22:42,115 :: INFO :: Affichage page accueil
+2020-05-26 15:22:49,218 :: INFO :: Affichage page accueil
+2020-05-26 15:22:56,381 :: INFO :: Affichage page accueil
+2020-05-26 15:22:59,176 :: INFO :: Affichage page accueil
+2020-05-26 15:41:08,983 :: INFO :: Affichage page accueil
+2020-05-26 15:41:10,292 :: INFO :: Affichage page avancee
+2020-05-26 15:41:21,886 :: INFO :: Affichage page accueil
+2020-05-26 15:41:25,089 :: INFO :: Affichage page accueil
+2020-05-26 15:41:26,921 :: INFO :: Affichage page avancee
+2020-05-26 15:41:41,227 :: INFO :: Affichage page accueil
+2020-05-26 15:41:41,797 :: INFO :: Affichage page avancee
+2020-05-26 15:41:42,223 :: INFO :: Affichage page accueil
+2020-05-26 15:41:42,450 :: INFO :: Affichage page avancee
+2020-05-26 15:41:42,651 :: INFO :: Affichage page accueil
+2020-05-26 15:41:42,831 :: INFO :: Affichage page avancee
+2020-05-26 15:41:43,201 :: INFO :: Affichage page accueil
+2020-05-26 15:41:45,716 :: INFO :: Affichage page avancee
+2020-05-26 15:41:46,054 :: INFO :: Affichage page accueil
+2020-05-26 15:41:46,510 :: INFO :: Affichage page avancee
+2020-05-26 15:41:47,420 :: INFO :: Affichage page accueil
+2020-05-26 15:42:15,003 :: INFO :: Affichage page accueil
+2020-05-26 15:42:20,019 :: INFO :: Affichage page accueil
+2020-05-26 15:42:26,854 :: INFO :: Affichage page accueil
+2020-05-26 15:42:28,963 :: INFO :: Affichage page accueil
+2020-05-26 15:42:32,857 :: INFO :: Affichage page accueil
+2020-05-26 15:42:38,217 :: INFO :: Affichage page accueil
+2020-05-26 15:53:24,142 :: INFO :: Affichage page accueil
+2020-05-26 15:53:34,306 :: INFO :: Affichage page avancee
+2020-05-26 15:53:37,441 :: INFO :: Affichage page accueil
+2020-05-26 15:53:37,960 :: INFO :: Affichage page avancee
+2020-05-26 15:53:38,290 :: INFO :: Affichage page accueil
+2020-05-26 15:53:38,613 :: INFO :: Affichage page avancee
+2020-05-26 15:53:38,783 :: INFO :: Affichage page accueil
+2020-05-26 15:53:40,212 :: INFO :: Affichage page avancee
+2020-05-26 15:53:50,326 :: INFO :: Lecture config.ini
+2020-05-26 15:53:50,327 :: DEBUG :: fichier complet
+2020-05-26 15:53:50,328 :: INFO :: ['192.168.1.1', '123456', 'abdcef']
+2020-05-26 15:53:50,423 :: INFO :: Affichage page accueil
+2020-05-26 15:54:12,426 :: INFO :: Affichage page accueil
+2020-05-26 15:54:13,910 :: INFO :: Lecture config.ini
+2020-05-26 15:54:13,911 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 15:54:14,018 :: WARNING :: Affichage page config
+2020-05-26 15:55:16,516 :: INFO :: Lecture config.ini
+2020-05-26 15:55:16,517 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-26 15:55:16,626 :: WARNING :: Affichage page config
+2020-05-26 15:56:33,284 :: INFO :: Affichage page accueil
+2020-05-26 15:56:33,287 :: INFO :: informations sauvegardees
+2020-05-26 15:56:33,289 :: INFO :: Lecture config.ini
+2020-05-26 15:56:33,290 :: DEBUG :: fichier complet
+2020-05-26 15:56:33,291 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 15:56:33,293 :: INFO :: Affichage page accueil
+2020-05-26 15:56:36,912 :: INFO :: Affichage page avancee
+2020-05-26 15:56:37,596 :: INFO :: Affichage page accueil
+2020-05-26 15:56:40,432 :: INFO :: Lecture config.ini
+2020-05-26 15:56:40,434 :: DEBUG :: fichier complet
+2020-05-26 15:56:40,434 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 15:56:40,507 :: INFO :: Affichage page accueil
+2020-05-26 16:33:16,128 :: INFO :: Lecture config.ini
+2020-05-26 16:33:16,128 :: DEBUG :: fichier complet
+2020-05-26 16:33:16,129 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 16:33:16,232 :: INFO :: Affichage page accueil
+2020-05-26 16:33:28,057 :: INFO :: Lecture config.ini
+2020-05-26 16:33:28,058 :: DEBUG :: fichier complet
+2020-05-26 16:33:28,058 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-26 16:33:28,158 :: INFO :: Affichage page accueil
+2020-05-26 16:33:29,162 :: INFO :: Affichage page avancee
+2020-05-26 16:33:29,853 :: INFO :: Affichage page accueil
+2020-05-26 16:33:30,222 :: INFO :: Affichage page avancee
+2020-05-26 16:33:31,931 :: INFO :: Affichage page accueil
+2020-05-26 16:33:32,829 :: INFO :: Affichage page avancee
+2020-05-26 16:33:33,096 :: INFO :: Affichage page accueil
+2020-05-27 09:31:51,961 :: INFO :: Affichage page accueil
+2020-05-27 09:31:53,380 :: INFO :: Affichage page avancee
+2020-05-27 09:32:10,344 :: INFO :: Affichage page accueil
+2020-05-27 09:32:11,877 :: INFO :: Affichage page accueil
+2020-05-27 09:32:46,296 :: INFO :: Affichage page accueil
+2020-05-27 09:32:47,501 :: INFO :: Affichage page avancee
+2020-05-27 09:32:53,081 :: INFO :: Affichage page accueil
+2020-05-27 09:32:54,031 :: INFO :: Affichage page accueil
+2020-05-27 09:33:07,462 :: INFO :: Affichage page accueil
+2020-05-27 09:33:08,950 :: INFO :: Affichage page avancee
+2020-05-27 09:33:14,178 :: INFO :: Affichage page accueil
+2020-05-27 09:33:15,584 :: INFO :: Affichage page accueil
+2020-05-27 09:34:43,026 :: INFO :: Affichage page accueil
+2020-05-27 09:34:44,403 :: INFO :: Affichage page avancee
+2020-05-27 09:34:49,488 :: INFO :: Affichage page accueil
+2020-05-27 09:34:50,668 :: INFO :: Affichage page accueil
+2020-05-27 09:36:05,559 :: INFO :: Affichage page accueil
+2020-05-27 09:36:07,096 :: INFO :: Affichage page avancee
+2020-05-27 09:36:10,244 :: INFO :: Lecture config.ini
+2020-05-27 09:36:10,249 :: DEBUG :: fichier complet
+2020-05-27 09:36:10,250 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 09:36:10,319 :: INFO :: Affichage page accueil
+2020-05-27 09:37:08,301 :: INFO :: Affichage page accueil
+2020-05-27 09:37:09,964 :: INFO :: Lecture config.ini
+2020-05-27 09:37:09,966 :: DEBUG :: fichier complet
+2020-05-27 09:37:09,967 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 09:37:10,043 :: INFO :: Affichage page accueil
+2020-05-27 09:38:23,868 :: INFO :: Affichage page accueil
+2020-05-27 09:38:35,532 :: INFO :: Affichage page avancee
+2020-05-27 09:38:44,613 :: INFO :: Affichage page accueil
+2020-05-27 09:38:48,409 :: INFO :: Lecture config.ini
+2020-05-27 09:38:48,411 :: DEBUG :: fichier complet
+2020-05-27 09:38:48,412 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 09:38:48,496 :: INFO :: Affichage page accueil
+2020-05-27 09:40:02,177 :: INFO :: Affichage page accueil
+2020-05-27 09:40:03,992 :: INFO :: Lecture config.ini
+2020-05-27 09:40:03,993 :: DEBUG :: fichier complet
+2020-05-27 09:40:03,993 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 09:40:04,060 :: INFO :: Affichage page accueil
+2020-05-27 09:42:44,812 :: INFO :: Lecture config.ini
+2020-05-27 09:42:44,813 :: DEBUG :: fichier complet
+2020-05-27 09:42:44,813 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 09:42:44,878 :: INFO :: Affichage page accueil
+2020-05-27 09:42:57,876 :: INFO :: Lecture config.ini
+2020-05-27 09:42:57,877 :: DEBUG :: fichier complet
+2020-05-27 09:42:57,877 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 09:42:57,948 :: INFO :: Affichage page accueil
+2020-05-27 09:42:59,058 :: INFO :: Affichage page avancee
+2020-05-27 09:43:03,897 :: INFO :: Lecture config.ini
+2020-05-27 09:43:03,898 :: DEBUG :: fichier complet
+2020-05-27 09:43:03,898 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 09:43:03,964 :: INFO :: Affichage page accueil
+2020-05-27 09:43:05,452 :: INFO :: Affichage page avancee
+2020-05-27 09:43:06,368 :: INFO :: Affichage page accueil
+2020-05-27 11:09:16,961 :: INFO :: Lecture config.ini
+2020-05-27 11:09:16,963 :: DEBUG :: fichier complet
+2020-05-27 11:09:16,964 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 11:09:17,133 :: INFO :: Affichage page accueil
+2020-05-27 11:11:09,612 :: INFO :: Affichage page avancee
+2020-05-27 11:12:05,203 :: INFO :: Lecture config.ini
+2020-05-27 11:12:05,204 :: DEBUG :: fichier complet
+2020-05-27 11:12:05,204 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 11:12:05,281 :: INFO :: Affichage page accueil
+2020-05-27 11:12:11,481 :: INFO :: Affichage page avancee
+2020-05-27 11:12:50,699 :: INFO :: Lecture config.ini
+2020-05-27 11:12:50,700 :: DEBUG :: fichier complet
+2020-05-27 11:12:50,700 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 11:12:50,779 :: INFO :: Affichage page accueil
+2020-05-27 11:12:51,894 :: INFO :: Affichage page avancee
+2020-05-27 11:13:07,156 :: INFO :: Affichage page accueil
+2020-05-27 11:13:16,761 :: INFO :: Lecture config.ini
+2020-05-27 11:13:16,762 :: DEBUG :: fichier complet
+2020-05-27 11:13:16,763 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 11:13:16,834 :: INFO :: Affichage page accueil
+2020-05-27 11:15:34,627 :: INFO :: Lecture config.ini
+2020-05-27 11:15:34,628 :: WARNING :: config.ini vide ou partiellement vide
+2020-05-27 11:15:34,785 :: WARNING :: Affichage page config
+2020-05-27 11:15:54,456 :: INFO :: Affichage page accueil
+2020-05-27 11:15:54,459 :: INFO :: informations sauvegardees
+2020-05-27 11:15:54,461 :: INFO :: Lecture config.ini
+2020-05-27 11:15:54,466 :: DEBUG :: fichier complet
+2020-05-27 11:15:54,466 :: INFO :: ['192.168.1.1', '123456', 'abcdef']
+2020-05-27 11:15:54,467 :: INFO :: Affichage page accueil
