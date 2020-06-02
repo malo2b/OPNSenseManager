@@ -4,6 +4,7 @@ from systemeLogs import *
 from traitementFichierIni import ecrireConfigIni
 import json
 from Base import *
+from apiFunc import *
 
 # BG color #353542
 # Sucess color #32b643
@@ -114,20 +115,41 @@ def afficherPageAvancee(window):
     def choixRadioBouton():
         print(rb.get())
 
-    radioButton1 = Radiobutton(text = "Choix 1", variable=rb, value=1, command=choixRadioBouton, bg='#353542', fg='#e6eced', font=("courrier",13))
-    radioButton2 = Radiobutton(text = "Choix 2", variable=rb, value=2, command=choixRadioBouton, bg='#353542', fg='#e6eced', font=("courrier",13))
-    radioButton3 = Radiobutton(text = "Choix 3", variable=rb, value=3, command=choixRadioBouton, bg='#353542', fg='#e6eced', font=("courrier",13))
-    radioButton1.place(x = 15, y = 70)
-    radioButton2.place(x = 15, y = 110)
-    radioButton3.place(x = 15, y = 150)
+    objectJsonSourceInternet = json.loads(listeSourceInternet())
+    listeSource=[]
+    listeRadioBouton=[]
+
+    y=70
+    i=0
+
+    for source in objectJsonSourceInternet:
+        
+        listeSource.append(objectJsonSourceInternet[source])
+        listeRadioBouton.append(Radiobutton(text = listeSource[i] , variable=rb, value=i, command=choixRadioBouton, bg='#353542', fg='#e6eced', font=("courrier",13)))
+
+        listeRadioBouton[i].place(x=15,y=y)
+        y=y+30
+        i+=1
+
+
+    # radioButton1 = Radiobutton(text = "Choix 1", variable=rb, value=1, command=choixRadioBouton, bg='#353542', fg='#e6eced', font=("courrier",13))
+    # radioButton2 = Radiobutton(text = "Choix 2", variable=rb, value=2, command=choixRadioBouton, bg='#353542', fg='#e6eced', font=("courrier",13))
+    # radioButton3 = Radiobutton(text = "Choix 3", variable=rb, value=3, command=choixRadioBouton, bg='#353542', fg='#e6eced', font=("courrier",13))
+    # radioButton1.place(x = 15, y = 70)
+    # radioButton2.place(x = 15, y = 110)
+    # radioButton3.place(x = 15, y = 150)
 
   
     # Liste Déroulante
 
-    listIp=["192.168.1.1","192.168.1.2","192.168.1.3","192.168.1.4"]
+    objectJsonIP = json.loads(listePostes())
+    listeNom = []
 
-    listeDéroulante= ttk.Combobox(window,values=listIp)
-    listeDéroulante.place(x=15,y=210, height=30, width=250)
+    for poste in objectJsonIP:
+        listeNom.append(objectJsonIP[poste]["utilisateur"])
+        
+    listeDéroulante= ttk.Combobox(window,values=listeNom)
+    listeDéroulante.place(x=15,y=y+30, height=30, width=200)
 
     # retour
 
@@ -162,3 +184,5 @@ def afficherGui(choix):
 
     # afficher
     window.mainloop()
+
+afficherGui("avance")
